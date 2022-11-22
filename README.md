@@ -4,4 +4,5 @@
 [![Git y github](https://live.staticflickr.com/65535/40666021673_fb324524ec_b.jpg "Git y github")](https://live.staticflickr.com/65535/40666021673_fb324524ec_b.jpg "Git y github")
 creado por el faq
 incluye todos los apuntes del german
+incluye algo mas
 ## Aguante Platzi y el Diego QEPD y messi que va a traer la copa.
